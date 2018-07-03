@@ -31,13 +31,13 @@ Presentations
 
 -   [Steve's Xaringan Presentation: POSC 0000 – It Would Be Cool If This Were an Actual Class Presentation by Steven V. Miller](http://svmiller.com/miscellany/svm-xaringan-example.html)
 
--   []()
+-   [Decoding the Alt-Right - A Machine Learning Project](https://decoding-the-altright.netlify.com/)
 
--   []()
+-   [Godly Governance - Examining Support for Religious Governance in Arab Muslim Majority Countries](https://godly-governance.netlify.com/)
 
--   []()
+-   [Deliberation Across the World - Regime Legitimacy and Deliberation](https://deliberation-and-legitimacy.netlify.com/#1)
 
--   []()
+-   [Variants of Populism](https://variants-of-populism.netlify.com/#1)
 
 -   []()
 
