@@ -39,7 +39,7 @@ Presentations
 
 -   [Variants of Populism](https://variants-of-populism.netlify.com/#1)
 
--   []()
+-   [Package Development in R](https://develop-rpkgs.netlify.com)
 
 -   []()
 
